@@ -1,0 +1,7 @@
+{
+  "name": "status-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
